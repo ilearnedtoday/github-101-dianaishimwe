@@ -8,3 +8,4 @@
 # ***Among others***
 # However, despite reading through the notes on both Github and Git, I am still unable to draw a difference from the two. I am well aware they are different, 
 # but I just can't seem to figure it out,because to me, the description is almost the same.
+I was mostly intrigued by the 'Markdown' feature which allows one to format their texts on GitHub, in places like repository READMEs and comments on pull requests.
